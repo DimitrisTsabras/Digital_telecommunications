@@ -1,1 +1,1 @@
-Set1 includes the exercise and the .pdf file includes my answers and code in Matlab.
+Το Set1 περιλαμβάνει την εκφώνηση και το pdf αρχείο είναι η αναφορά και η γλώσσα προγραμματισμού που χρησιμοποιήθηκε ήταν η Matlab.
