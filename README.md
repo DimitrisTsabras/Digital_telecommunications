@@ -1,1 +1,1 @@
-Το Set1 περιλαμβάνει την εκφώνηση και το pdf αρχείο είναι η αναφορά και η γλώσσα προγραμματισμού που χρησιμοποιήθηκε ήταν η Matlab.
+This project was developed for Digital Telecommunications. The programming language used was Matlab.
